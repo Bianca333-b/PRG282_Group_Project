@@ -1,0 +1,31 @@
+HeroID,HeroName,Age,Superpower,Score,Rank,ThreatLevel
+1,Blaze,25,Fire Manipulation,85,A,High
+2,Aquaria,30,Water Control,90,S,Medium
+3,Shadow,22,Invisibility,78,B,Low
+4,Thunderstrike,28,Lightning,92,S,High
+5,Windrunner,24,Super Speed,80,A,Medium
+6,Stonefist,35,Super Strength,88,A,High
+7,Nightingale,27,Healing,82,B,Low
+8,Pyro,23,Fireballs,77,B,Medium
+9,Glacier,29,Ice Control,91,S,Medium
+10,Specter,26,Intangibility,84,A,Low
+11,Volt,31,Electricity,89,S,High
+12,Tsunami,33,Water Blast,86,A,Medium
+13,Breeze,21,Flight,75,B,Low
+14,Ironclad,34,Metal Manipulation,87,A,High
+15,Lumina,28,Light Manipulation,90,S,Medium
+16,Quake,32,Earth Control,83,B,High
+17,Tempest,25,Storm Creation,81,B,Medium
+18,Phantom,27,Teleportation,79,B,Low
+19,Inferno,29,Fire Burst,92,S,High
+20,Tide,26,Water Healing,78,B,Medium
+21,Shadowstrike,24,Shadow Blades,85,A,Medium
+22,Thunderbolt,30,Electric Speed,88,A,High
+23,Cyclone,22,Wind Control,76,B,Low
+24,Ember,23,Flame Control,80,A,Medium
+25,Glint,28,Light Speed,87,A,Medium
+26,Rockslide,35,Earth Smash,90,S,High
+27,Silvershadow,31,Invisibility,82,B,Low
+28,Hydra,33,Water Manipulation,89,S,Medium
+29,Flare,24,Fire Projection,84,A,Medium
+30,Aero,25,Air Manipulation,81,B,Low
