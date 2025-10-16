@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Precision 5530\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\",
+  "WorkspaceRootPath": "C:\\Users\\600537\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A58CB86A-469E-4607-A3DA-A6EFC11E4AF0}|SuperheroDatabase.csproj|c:\\users\\precision 5530\\desktop\\prg282_group_project\\superherodatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A58CB86A-469E-4607-A3DA-A6EFC11E4AF0}|SuperheroDatabase.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A58CB86A-469E-4607-A3DA-A6EFC11E4AF0}|SuperheroDatabase.csproj|C:\\Users\\Precision 5530\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A58CB86A-469E-4607-A3DA-A6EFC11E4AF0}|SuperheroDatabase.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A58CB86A-469E-4607-A3DA-A6EFC11E4AF0}|SuperheroDatabase.csproj|C:\\Users\\Precision 5530\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\data\\herodataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A58CB86A-469E-4607-A3DA-A6EFC11E4AF0}|SuperheroDatabase.csproj|C:\\Users\\600537\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\data\\herodataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A58CB86A-469E-4607-A3DA-A6EFC11E4AF0}|SuperheroDatabase.csproj|solutionrelative:data\\herodataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A58CB86A-469E-4607-A3DA-A6EFC11E4AF0}|SuperheroDatabase.csproj|C:\\Users\\Precision 5530\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A58CB86A-469E-4607-A3DA-A6EFC11E4AF0}|SuperheroDatabase.csproj|c:\\users\\600537\\desktop\\prg282_group_project\\superherodatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A58CB86A-469E-4607-A3DA-A6EFC11E4AF0}|SuperheroDatabase.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58CB86A-469E-4607-A3DA-A6EFC11E4AF0}|SuperheroDatabase.csproj|C:\\Users\\600537\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58CB86A-469E-4607-A3DA-A6EFC11E4AF0}|SuperheroDatabase.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58CB86A-469E-4607-A3DA-A6EFC11E4AF0}|SuperheroDatabase.csproj|C:\\Users\\600537\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A58CB86A-469E-4607-A3DA-A6EFC11E4AF0}|SuperheroDatabase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A58CB86A-469E-4607-A3DA-A6EFC11E4AF0}|SuperheroDatabase.csproj|C:\\Users\\Precision 5530\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\business\\heromanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A58CB86A-469E-4607-A3DA-A6EFC11E4AF0}|SuperheroDatabase.csproj|C:\\Users\\600537\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\business\\heromanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A58CB86A-469E-4607-A3DA-A6EFC11E4AF0}|SuperheroDatabase.csproj|solutionrelative:business\\heromanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,7 +48,7 @@
         },
         {
           "DockedWidth": 352,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,48 +58,46 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Precision 5530\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\600537\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Precision 5530\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Program.cs",
+              "ToolTip": "C:\\Users\\600537\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T19:48:50.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T19:48:50.759Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "HeroManager.cs",
-              "DocumentMoniker": "C:\\Users\\Precision 5530\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Business\\HeroManager.cs",
+              "DocumentMoniker": "C:\\Users\\600537\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Business\\HeroManager.cs",
               "RelativeDocumentMoniker": "Business\\HeroManager.cs",
-              "ToolTip": "C:\\Users\\Precision 5530\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Business\\HeroManager.cs",
+              "ToolTip": "C:\\Users\\600537\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Business\\HeroManager.cs",
               "RelativeToolTip": "Business\\HeroManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T19:45:53.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T19:45:53.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "HeroDataAccess.cs",
-              "DocumentMoniker": "C:\\Users\\Precision 5530\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Data\\HeroDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\600537\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Data\\HeroDataAccess.cs",
               "RelativeDocumentMoniker": "Data\\HeroDataAccess.cs",
-              "ToolTip": "C:\\Users\\Precision 5530\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Data\\HeroDataAccess.cs",
+              "ToolTip": "C:\\Users\\600537\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Data\\HeroDataAccess.cs",
               "RelativeToolTip": "Data\\HeroDataAccess.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T19:45:29.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Precision 5530\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\600537\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Precision 5530\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Form1.cs",
+              "ToolTip": "C:\\Users\\600537\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,11 +106,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Precision 5530\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\600537\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Precision 5530\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\600537\\Desktop\\PRG282_Group_Project\\SuperheroDatabase\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T13:35:41.006Z",

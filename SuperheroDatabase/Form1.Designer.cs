@@ -57,6 +57,7 @@
             this.Score = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Rank = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Threat = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dgvDisplay = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudExamScore)).BeginInit();
@@ -270,6 +271,7 @@
             // panel3
             // 
             this.panel3.BackColor = System.Drawing.Color.Transparent;
+            this.panel3.Controls.Add(this.dgvDisplay);
             this.panel3.Controls.Add(this.dgvSuperheroes);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel3.Location = new System.Drawing.Point(340, 85);
@@ -352,6 +354,19 @@
             this.Threat.Name = "Threat";
             this.Threat.ReadOnly = true;
             // 
+            // dgvDisplay
+            // 
+            this.dgvDisplay.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(94)))), ((int)(((byte)(154)))));
+            this.dgvDisplay.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.dgvDisplay.Font = new System.Drawing.Font("Segoe UI", 9.900001F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dgvDisplay.ForeColor = System.Drawing.Color.White;
+            this.dgvDisplay.Location = new System.Drawing.Point(83, 163);
+            this.dgvDisplay.Name = "dgvDisplay";
+            this.dgvDisplay.Size = new System.Drawing.Size(100, 36);
+            this.dgvDisplay.TabIndex = 14;
+            this.dgvDisplay.Text = "Display DGV";
+            this.dgvDisplay.UseVisualStyleBackColor = false;
+            // 
             // Form1
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Inherit;
@@ -411,6 +426,7 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Score;
         private System.Windows.Forms.DataGridViewTextBoxColumn Rank;
         private System.Windows.Forms.DataGridViewTextBoxColumn Threat;
+        private System.Windows.Forms.Button dgvDisplay;
     }
 }
 

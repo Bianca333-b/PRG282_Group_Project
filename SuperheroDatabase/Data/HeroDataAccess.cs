@@ -11,6 +11,6 @@ namespace SuperheroDatabase.Data
 {
     internal class HeroDataAccess
     {
-        
+        //string conn = "Server=.; Initial Catalog= PRG282_Group_Project; User ID =sa; Password=sa2025@1";
     }
 }

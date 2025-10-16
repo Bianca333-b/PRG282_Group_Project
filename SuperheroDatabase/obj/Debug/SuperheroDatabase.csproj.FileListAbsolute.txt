@@ -9,3 +9,14 @@ C:\Users\Precision 5530\Desktop\PRG282_Group_Project\SuperheroDatabase\obj\Debug
 C:\Users\Precision 5530\Desktop\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.exe
 C:\Users\Precision 5530\Desktop\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.pdb
 C:\Users\Precision 5530\Desktop\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.exe.config
+C:\Users\600537\Desktop\PRG282_Group_Project\SuperheroDatabase\bin\Debug\SuperheroDatabase.exe.config
+C:\Users\600537\Desktop\PRG282_Group_Project\SuperheroDatabase\bin\Debug\SuperheroDatabase.exe
+C:\Users\600537\Desktop\PRG282_Group_Project\SuperheroDatabase\bin\Debug\SuperheroDatabase.pdb
+C:\Users\600537\Desktop\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.csproj.AssemblyReference.cache
+C:\Users\600537\Desktop\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.exe.config
+C:\Users\600537\Desktop\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.Form1.resources
+C:\Users\600537\Desktop\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.Properties.Resources.resources
+C:\Users\600537\Desktop\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.csproj.GenerateResource.cache
+C:\Users\600537\Desktop\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.csproj.CoreCompileInputs.cache
+C:\Users\600537\Desktop\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.exe
+C:\Users\600537\Desktop\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.pdb
