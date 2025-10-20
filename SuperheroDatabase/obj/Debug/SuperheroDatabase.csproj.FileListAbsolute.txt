@@ -31,3 +31,14 @@ C:\Users\600537\OneDrive - belgiumcampus.ac.za\Desktop\PRG282_Group_Project\Supe
 C:\Users\600537\OneDrive - belgiumcampus.ac.za\Desktop\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.csproj.CoreCompileInputs.cache
 C:\Users\600537\OneDrive - belgiumcampus.ac.za\Desktop\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.exe
 C:\Users\600537\OneDrive - belgiumcampus.ac.za\Desktop\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.pdb
+C:\Users\roebssie\OneDrive - belgiumcampus.ac.za\Belgium Campus\2025\PRG282\Project\PRG282_Group_Project\SuperheroDatabase\bin\Debug\SuperheroDatabase.exe.config
+C:\Users\roebssie\OneDrive - belgiumcampus.ac.za\Belgium Campus\2025\PRG282\Project\PRG282_Group_Project\SuperheroDatabase\bin\Debug\SuperheroDatabase.exe
+C:\Users\roebssie\OneDrive - belgiumcampus.ac.za\Belgium Campus\2025\PRG282\Project\PRG282_Group_Project\SuperheroDatabase\bin\Debug\SuperheroDatabase.pdb
+C:\Users\roebssie\OneDrive - belgiumcampus.ac.za\Belgium Campus\2025\PRG282\Project\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.csproj.AssemblyReference.cache
+C:\Users\roebssie\OneDrive - belgiumcampus.ac.za\Belgium Campus\2025\PRG282\Project\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.exe.config
+C:\Users\roebssie\OneDrive - belgiumcampus.ac.za\Belgium Campus\2025\PRG282\Project\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.Form1.resources
+C:\Users\roebssie\OneDrive - belgiumcampus.ac.za\Belgium Campus\2025\PRG282\Project\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.Properties.Resources.resources
+C:\Users\roebssie\OneDrive - belgiumcampus.ac.za\Belgium Campus\2025\PRG282\Project\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.csproj.GenerateResource.cache
+C:\Users\roebssie\OneDrive - belgiumcampus.ac.za\Belgium Campus\2025\PRG282\Project\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.csproj.CoreCompileInputs.cache
+C:\Users\roebssie\OneDrive - belgiumcampus.ac.za\Belgium Campus\2025\PRG282\Project\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.exe
+C:\Users\roebssie\OneDrive - belgiumcampus.ac.za\Belgium Campus\2025\PRG282\Project\PRG282_Group_Project\SuperheroDatabase\obj\Debug\SuperheroDatabase.pdb

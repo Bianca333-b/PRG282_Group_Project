@@ -27,8 +27,102 @@ namespace SuperheroDatabase
             btnViewAll.Click += btnViewAll_Click;
             btnUpdate.Click += btnUpdate_Click;
             btnDelete.Click += btnDelete_Click;
-            
             btnGenerateReport.Click += btnGenerateReport_Click;
+
+            // Set the default colors for the buttons
+            SetButtonColors();
+
+            // Handle the button events
+            btnAdd.MouseDown += Btn_MouseDown;
+            btnAdd.MouseEnter += Btn_MouseEnter;
+            btnViewAll.MouseDown += Btn_MouseDown;
+            btnViewAll.MouseEnter += Btn_MouseEnter;
+            btnUpdate.MouseDown += Btn_MouseDown;
+            btnUpdate.MouseEnter += Btn_MouseEnter;
+            btnDelete.MouseDown += Btn_MouseDown;
+            btnDelete.MouseEnter += Btn_MouseEnter;
+            btnGenerateReport.MouseDown += Btn_MouseDown;
+            btnGenerateReport.MouseEnter += Btn_MouseEnter;
+        }
+
+        private void Btn_MouseDown(object sender, MouseEventArgs e)
+        {
+            Button button = (Button)sender;
+            button.BackColor = selectedColor;
+        }
+
+        private void Btn_MouseEnter(object sender, EventArgs e)
+        {
+            Button button = (Button)sender;
+            button.BackColor = selectedColor;
+        }
+
+        private void Btn_MouseLeave(object sender, EventArgs e)
+        {
+            Button button = (Button)sender;
+            SetButtonColors();
+        }
+
+        btnGenerateReport.Click += btnGenerateReport_Click;
+        /*public partial class Form1 : Form
+{
+    private Color selectedColor = Color.FromArgb(0xFF2196F3);
+    private Color defaultColor = Color.Blue;
+
+    public Form1()
+    {
+        InitializeComponent();
+
+        // Set the default colors for the buttons
+        SetButtonColors();
+
+        // Handle the button events
+        btnAdd.MouseDown += Btn_MouseDown;
+        btnAdd.MouseEnter += Btn_MouseEnter;
+        btnViewAll.MouseDown += Btn_MouseDown;
+        btnViewAll.MouseEnter += Btn_MouseEnter;
+        btnUpdate.MouseDown += Btn_MouseDown;
+        btnUpdate.MouseEnter += Btn_MouseEnter;
+        btnDelete.MouseDown += Btn_MouseDown;
+        btnDelete.MouseEnter += Btn_MouseEnter;
+        btnGenerateReport.MouseDown += Btn_MouseDown;
+        btnGenerateReport.MouseEnter += Btn_MouseEnter;
+    }
+
+    private void SetButtonColors()
+    {
+        btnAdd.BackColor = defaultColor;
+        btnAdd.ForeColor = Color.White;
+        btnViewAll.BackColor = defaultColor;
+        btnViewAll.ForeColor = Color.White;
+        btnUpdate.BackColor = defaultColor;
+        btnUpdate.ForeColor = Color.White;
+        btnDelete.BackColor = defaultColor;
+        btnDelete.ForeColor = Color.White;
+        btnGenerateReport.BackColor = defaultColor;
+        btnGenerateReport.ForeColor = Color.White;
+    }
+
+    private void Btn_MouseDown(object sender, MouseEventArgs e)
+    {
+        Button button = (Button)sender;
+        button.BackColor = selectedColor;
+    }
+
+    private void Btn_MouseEnter(object sender, EventArgs e)
+    {
+        Button button = (Button)sender;
+        button.BackColor = selectedColor;
+    }
+
+    private void Btn_MouseLeave(object sender, EventArgs e)
+    {
+        Button button = (Button)sender;
+        SetButtonColors();
+    }
+}
+ */
+
             if (this.Controls.ContainsKey("btnUploadFile"))
             {
                 Button uploadBtn = (Button)this.Controls["btnUploadFile"];
