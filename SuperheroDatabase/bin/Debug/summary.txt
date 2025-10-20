@@ -1,7 +1,7 @@
-Total Heroes: 4
-Average Age: 19.50
-Average Exam Score: 61.50
+Total Heroes: 5
+Average Age: 21.60
+Average Exam Score: 50.40
 S-Rank: 1
 A-Rank: 1
 B-Rank: 1
-C-Rank: 1
+C-Rank: 2
