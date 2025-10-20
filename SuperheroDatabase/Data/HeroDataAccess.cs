@@ -20,7 +20,7 @@ namespace SuperheroDatabase.Data
         //  (Server=.;Initial Catalog=DB_Bianca;...)
         private string connectionString = @"Server=.;Initial Catalog=DB_Bianca; User ID=sa; Password=sa2025@1;";
 
-        public void AddHero(Hero hero)
+        public void AddHero(Hero hero) //...function for adding a super hero.
         {
             SqlConnection conn = null;
             SqlCommand cmd = null;
@@ -30,7 +30,7 @@ namespace SuperheroDatabase.Data
                 conn.Open();
                 string sql = "INSERT INTO Superheroes (HeroID, Name, Age, Superpower, Score, Rank, ThreatLevel) " +
                              "VALUES (@HeroID, @Name, @Age, @Superpower, @Score, @Rank, @ThreatLevel)";
-                cmd = new SqlCommand(sql, conn);
+                cmd = new SqlCommand(sql, conn);//...hero details
                 cmd.Parameters.AddWithValue("@HeroID", hero.HeroID);
                 cmd.Parameters.AddWithValue("@Name", hero.Name);
                 cmd.Parameters.AddWithValue("@Age", hero.Age);
